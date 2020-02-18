@@ -47,8 +47,16 @@
 		<dependency>
 			<groupId>org.apache.commons</groupId>
 			<artifactId>commons-text</artifactId>
+<<<<<<< HEAD
 			<version>1.4</version>
 
+=======
+<<<<<<< HEAD
+			<version>1.4</version>
+=======
+			<version>1.3</version>
+>>>>>>> branch 'master' of https://github.com/phubkhn/spring-webflux.git
+>>>>>>> refs/remotes/origin/master
 		</dependency>
 	</dependencies>
 
